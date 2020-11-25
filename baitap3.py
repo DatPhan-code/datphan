@@ -101,13 +101,7 @@ for value in kteam:
 klist = [lambda x: x**2 , lambda x : x**3]
 print (klist[0](1))
 
-"""
-funt = lambda x,y : x+y
-k1 = [1,2,3]
-k2=[1,2,3]
-kteam = map(funt,k1,k2)
-print (list(kteam))
-"""
+
 
 
 

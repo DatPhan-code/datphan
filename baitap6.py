@@ -109,7 +109,7 @@ class Student(Person):
 x = Student("Dat",29,2019)
 print(x.graduationyear)
 
-x = datetime.datetime(2018,01,12)
+x = datetime.datetime(2018,1,12)
 print(x.strftime("%m"))
 
 #RegEx

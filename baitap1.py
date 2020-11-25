@@ -93,7 +93,7 @@ while True:
     if s:
         line.append(s.upper())
     else:
-        break;
+        break
 for sentence in line:
     print(sentence)
 
